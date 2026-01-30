@@ -38,17 +38,17 @@ The app fetches meal data from the backend, displays them on the frontend, allow
 - npm install
 - npm run dev
   
-# The backend will run at:
+## The backend will run at:
 http://localhost:3000
 
-# Test in browser:
+## Test in browser:
 
 http://localhost:3000/meals
 
 ## 2. Setup the Frontend
 
-# Open a new terminal:
+## Open a new terminal:
 
-cd food-order-app
-npm install
-npm run dev
+- cd food-order-app
+- npm install
+- npm run dev
